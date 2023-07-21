@@ -741,7 +741,7 @@ textarea:-ms-input-placeholder {
 
 textarea {
     padding-top: 10px;
-    height: 250px;
+    height: 150px;
     resize: none;
 }
 
