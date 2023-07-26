@@ -3203,7 +3203,7 @@ only screen and (max-width: 767px) {
 .about-image {
     position: relative;
     margin-top: 50px;
-    max-width: 540px;
+    max-width: 600px;
 }
 
 .about-image::before {
