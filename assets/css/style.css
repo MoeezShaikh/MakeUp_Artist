@@ -4546,11 +4546,11 @@ only screen and (max-width: 575px) {
     border-radius: 67px;
 }
 
-@media only screen and (max-width: 767px) {
+/* @media only screen and (max-width: 767px) {
     .video-image {
         border-radius: 30px;
     }
-}
+} */
 
 .video-image img {
     width: 100%;
@@ -4568,13 +4568,13 @@ only screen and (max-width: 575px) {
     padding-top: 20px;
 }
 
-.video-content .video-play {
+/* .video-content .video-play {
     font-size: 20px;
     font-weight: 700;
     color: #faa292;
     letter-spacing: 1px;
     margin-top: 20px;
-}
+} */
 
 @media only screen and (max-width: 767px) {
     .video-content .video-play {
